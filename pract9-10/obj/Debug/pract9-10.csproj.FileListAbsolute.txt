@@ -1,0 +1,7 @@
+D:\lab\pract9-10\bin\Debug\pract9-10.exe.config
+D:\lab\pract9-10\bin\Debug\pract9-10.exe
+D:\lab\pract9-10\bin\Debug\pract9-10.pdb
+D:\lab\pract9-10\obj\Debug\pract9-10.csproj.AssemblyReference.cache
+D:\lab\pract9-10\obj\Debug\pract9-10.csproj.CoreCompileInputs.cache
+D:\lab\pract9-10\obj\Debug\pract9-10.exe
+D:\lab\pract9-10\obj\Debug\pract9-10.pdb
